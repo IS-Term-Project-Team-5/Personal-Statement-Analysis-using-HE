@@ -26,5 +26,5 @@
 
 ## How to use the personal_statement_analyst.py file
 1. In your own terminal, input "streamlit run personal_statement_analyst.py" command
-2. Input the personal statement
-3. Check the resuls
+2. Input the personal statement on the streamlit web site
+3. Check the resuls on the streamlit web site
