@@ -15,6 +15,6 @@
 
 1. Vectorize the input personal statement’s text and 130 example personal statements.
 2. Encrypt each vector homomorphically.
-3. Comparing ‘Cosine Similarity’ between input personal statements and example personal statements. (130 times)
+3. Comparing ‘Cosine Similarity’ between input personal statements and example personal statements. (40 times)
 4. Print Highest similar example personal statement and it’s talent
 
