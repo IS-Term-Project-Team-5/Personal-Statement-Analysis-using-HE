@@ -10,7 +10,8 @@
 - 10 x 4 = 40 personal statements (Label data)
 
 ## Flow Diagram
-<img width="1075" alt="스크린샷 2024-04-20 오후 12 52 26" src="https://github.com/KangMinsu98/Personal_Statement_HE_Analysis/assets/52079339/8cf12aec-90a7-409c-8b8e-c9b9ab0dd0cf">
+<img width="612" alt="image" src="https://github.com/IS-Term-Project-Team-5/Personal-Statement-Analysis-using-HE/assets/52079339/02b1ef08-bb89-4687-a694-966a01d43eb1">
+
 
 1. Vectorize the input personal statement’s text and 130 example personal statements.
 2. Encrypt each vector homomorphically.
