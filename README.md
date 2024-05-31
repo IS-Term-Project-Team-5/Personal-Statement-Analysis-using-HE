@@ -21,6 +21,7 @@
 ## Before use the personal_stetement_analyst.py file
 1. You should modify "key_file_path" variable to the directory of keys folder
 2. You should install pi-heaan, streamlit, transformers, torch
+
    Command example: pip install pi-heaan
 
 ## How to use the personal_statement_analyst.py file
